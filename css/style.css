@@ -44,7 +44,7 @@ section{
 
 body{
     background: linear-gradient(90deg, rgba(0,127,153,0.200) 0%, rgba(226,0,255,0.400) 100%)
-    ,url(../images/user-bg.jpg);
+    ,url(../images/user-bg.jpg) no-repeat;
     background-size: cover;
     background-position: center center;
     background-attachment: fixed;
