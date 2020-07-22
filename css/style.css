@@ -146,6 +146,7 @@ input{
     transition: all .6s;
     padding: 1rem 2rem;
     background: transparent;
+    width: 100%;
 }
 
 input:focus{
