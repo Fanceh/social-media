@@ -87,7 +87,7 @@ button:hover{
     box-shadow: 0 0 50px #0a0a0a;
     padding: 2rem;
     width: 300px;
-    transition: all .5s;
+    transition: all .65s;
 }
 
 .slide-in{
@@ -110,7 +110,7 @@ button:hover{
     padding: 2rem;
     width: 300px;
     text-align: center;
-    transition: all .5s;
+    transition: all .65s;
 }
 
 .register>h1{
