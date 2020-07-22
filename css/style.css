@@ -86,7 +86,7 @@ button:hover{
     border-radius: 10px;
     box-shadow: 0 0 50px #0a0a0a;
     padding: 2rem;
-    width: 300px;
+    width: 330px;
     transition: all .65s;
 }
 
@@ -108,7 +108,7 @@ button:hover{
     border-radius: 10px;
     box-shadow: 0 0 50px #0a0a0a;
     padding: 2rem;
-    width: 300px;
+    width: 330px;
     text-align: center;
     transition: all .65s;
 }
