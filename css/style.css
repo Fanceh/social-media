@@ -52,16 +52,6 @@ body{
     transition: all .6s;
 }
 
-.user-bg2{
-    position: absolute;
-    top: 0;
-    left: 0;
-    transform: translate(0%,0%);
-    transition: all .65s;
-    height: 1080px;
-    width: 1920px;
-}
-
 button{
     padding: 1rem 5rem;
     background: #d95df8;
@@ -97,7 +87,7 @@ button:hover{
     border-radius: 10px;
     box-shadow: 0 0 50px #0a0a0a;
     padding: 2rem;
-    width: 330px;
+    width: 25%;
     transition: all .65s;
 }
 
@@ -119,7 +109,7 @@ button:hover{
     border-radius: 10px;
     box-shadow: 0 0 50px #0a0a0a;
     padding: 2rem;
-    width: 330px;
+    width: 25%;
     text-align: center;
     transition: all .65s;
 }
