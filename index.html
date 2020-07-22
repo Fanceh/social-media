@@ -46,7 +46,7 @@
             </div>
         </div>
     </section>
-
+    <img src="images/user-bg2.jpg" class="user-bg2" alt="">
     <!--FONT AWESOME JS-->
     <script type="text/javascript" src="fontawesome/fontawesome-all.js"></script>
     <!--JQUERY-->
@@ -56,10 +56,12 @@
         selectElement('.register-btn') .addEventListener('click', () => {
             selectElement('.login').classList.add('slide-out');
             selectElement('.register').classList.add('slide-in');
+            selectElement('.user-bg2').classList.add('user-bg2-in');
         });
         selectElement('.login-btn') .addEventListener('click', () => {
             selectElement('.register').classList.remove('slide-in');
             selectElement('.login').classList.remove('slide-out');
+            selectElement('.user-bg2').classList.remove('user-bg2-in');
         });
     </script>
 </body>
